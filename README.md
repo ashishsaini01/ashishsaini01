@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Ashish Saini
 
-[![linkedin profile link](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ashish-saini-p/])
+
 
 ## 🙋‍♂️ About me
 
