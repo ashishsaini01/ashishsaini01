@@ -12,7 +12,7 @@ My research is centered on Anomaly Detection, Computer Vision, and Time Series A
 
 ### Experience 👨🏻‍💻
 
-- Data Management & Automation Intern - Munich Re (June 2024 - Present)
+- Data Management & Automation Intern - Munich Re (June 2024 - Feb 2025)
 - Data Analytics Intern - Munich RE (May 2023 - April 2024)
 - Student Research Assistant - TU Dortmund (March 2022 – April 2023)
 - Consultant Data Scientist - Celebal Tech. (Sep 2018 - June 2020)
