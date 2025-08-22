@@ -46,14 +46,14 @@ My research is centered on Anomaly Detection, Computer Vision, and Time Series A
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> 
 <img src="https://img.shields.io/badge/NLTK-154E77?style=flat&logo=python&logoColor=white"/> 
 
-### Experience 👨🏻‍💻
+## 👨🏻‍💻 Experience
 
 - Data Management & Automation Intern - Munich Re (June 2024 - Feb 2025)
 - Data Analytics Intern - Munich RE (May 2023 - April 2024)
 - Student Research Assistant - TU Dortmund (March 2022 – April 2023)
 - Consultant Data Scientist - Celebal Tech. (Sep 2018 - June 2020)
 
-### Education 📚
+## 📚 Education
 
 - Masters in Data Science at TU Dortmund 
 - Bachelors in Computer Science at MAIET 
